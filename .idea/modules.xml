@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/vueadm.iml" filepath="$PROJECT_DIR$/vueadm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vuetest.iml" filepath="$PROJECT_DIR$/vuetest.iml" />
     </modules>
   </component>
 </project>
